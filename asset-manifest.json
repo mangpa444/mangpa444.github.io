@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b3ac610.chunk.css",
+    "main.js": "/static/js/main.436cf7f6.chunk.js",
+    "main.js.map": "/static/js/main.436cf7f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b73fd871.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b73fd871.js.map",
+    "static/js/2.ef65fb83.chunk.js": "/static/js/2.ef65fb83.chunk.js",
+    "static/js/2.ef65fb83.chunk.js.map": "/static/js/2.ef65fb83.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.457aba27a1bd1b36694d1246c9066344.js": "/precache-manifest.457aba27a1bd1b36694d1246c9066344.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9b3ac610.chunk.css.map": "/static/css/main.9b3ac610.chunk.css.map",
+    "static/js/2.ef65fb83.chunk.js.LICENSE.txt": "/static/js/2.ef65fb83.chunk.js.LICENSE.txt",
+    "static/media/asset-5.png": "/static/media/asset-5.03aa1bfa.png",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/d.png": "/static/media/d.c06ed8d8.png",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/landingv4.png": "/static/media/landingv4.999b3293.png",
+    "static/media/logo.png": "/static/media/logo.d0d00de5.png",
+    "static/media/qu.png": "/static/media/qu.9b5b59ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b73fd871.js",
+    "static/js/2.ef65fb83.chunk.js",
+    "static/css/main.9b3ac610.chunk.css",
+    "static/js/main.436cf7f6.chunk.js"
+  ]
+}
